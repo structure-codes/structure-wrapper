@@ -1,0 +1,18 @@
+[submodule "vscode-tree-language"]
+	path = vscode-tree-language
+	url = git@github.com:structure-codes/vscode-tree-language.git
+[submodule "structure"]
+	path = structure
+	url = git@github.com:structure-codes/structure.git
+[submodule "cli"]
+	path = cli
+	url = git@github.com:structure-codes/cli.git
+[submodule "templates"]
+	path = templates
+	url = git@github.com:structure-codes/templates.git
+[submodule "is-nondot"]
+	path = is-nondot
+	url = git@github.com:structure-codes/is-nondot.git
+[submodule "utils"]
+	path = utils
+	url = git@github.com:structure-codes/utils.git
