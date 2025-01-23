@@ -8,7 +8,7 @@ git clone --recurse-submodules git@github.com:structure-codes/structure-wrapper.
 
 To fetch upstream changes for the submodules:
 ```
-git submodule update
+git submodule update --remote
 ```
 
 To add a new submodule:
